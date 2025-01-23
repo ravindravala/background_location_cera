@@ -1,4 +1,4 @@
-name: background_location
+name: background_location_cera
 description: A Flutter plugin to get location updates in the background for both
   Android and iOS. Uses CoreLocation for iOS and FusedLocationProvider for
   Android.
